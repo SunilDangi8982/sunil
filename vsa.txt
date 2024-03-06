@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h3>SAunil Dangi<h3>
+    <h3>Sunil Dangi<h3>
     <h2>Sati Vidisha<h2>
 </body>
 </html>
