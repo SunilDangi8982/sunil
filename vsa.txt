@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+!<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -6,9 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>hello to my website</h1>
-    <h1>Hosting it on github</h1>
-    <h1>sunil dangi</h1>
-    <h1>vsa16</h1>
+    <h3>SAunil Dangi<h3>
+    <h2>Sati Vidisha<h2>
 </body>
 </html>
